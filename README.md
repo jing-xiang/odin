@@ -1,3 +1,3 @@
 # odin-recipes
 
-Shows recipes 
+Show recipes 
